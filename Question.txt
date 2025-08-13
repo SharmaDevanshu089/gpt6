@@ -1,0 +1,8 @@
+Write a function multiply_by_two that:
+
+Takes one integer as a parameter.
+
+Returns the value multiplied by 2.
+
+Then, in main, call it with 10 and print the result.
+
